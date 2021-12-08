@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.mail.properties.mail.smtp.auth",
+      "type": "java.lang.String",
+      "description": "Description for server.mail.properties.mail.smtp.auth."
+  }
+] }
