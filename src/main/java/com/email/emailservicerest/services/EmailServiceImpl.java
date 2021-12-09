@@ -4,6 +4,7 @@ import com.email.emailservicerest.exceptions.ObjectNotFoundException;
 import com.email.emailservicerest.models.EmailModel;
 import com.email.emailservicerest.models.enums.StatusEmail;
 import com.email.emailservicerest.repositorys.EmailRepository;
+import com.email.emailservicerest.services.email.EmailService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.domain.Page;

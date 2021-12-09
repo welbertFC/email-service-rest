@@ -1,6 +1,6 @@
 package com.email.emailservicerest.configurations;
 
-import com.email.emailservicerest.services.EmailService;
+import com.email.emailservicerest.services.email.EmailService;
 import com.email.emailservicerest.services.SmtpGmailService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

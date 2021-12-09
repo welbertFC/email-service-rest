@@ -1,5 +1,6 @@
 package com.email.emailservicerest.services;
 
+import com.email.emailservicerest.services.email.AbstractEmailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

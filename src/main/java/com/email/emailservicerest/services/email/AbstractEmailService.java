@@ -1,4 +1,4 @@
-package com.email.emailservicerest.services;
+package com.email.emailservicerest.services.email;
 
 import com.email.emailservicerest.models.EmailModel;
 import org.springframework.beans.factory.annotation.Value;
